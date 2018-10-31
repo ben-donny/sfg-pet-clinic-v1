@@ -51,11 +51,6 @@
             </plugin>
         </plugins>
     </build>
-   <scm>
-       <developerConnection>scm:git:git@github.com:ben-donny/sfg-pet-clinic-v1.git</developerConnection>
-    <tag>sfg-pet-clinic-v1-0.0.5</tag>
-  </scm>
-
 </project>
 
 
