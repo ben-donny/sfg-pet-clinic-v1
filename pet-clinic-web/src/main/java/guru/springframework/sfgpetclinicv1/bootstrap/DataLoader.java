@@ -8,7 +8,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 @Component
-public class DataLoader  implements CommandLineRunner {
+public class DataLoader implements CommandLineRunner {
 
     private final OwnerService ownerService;
     private final VetService vetService;
@@ -41,7 +41,8 @@ public class DataLoader  implements CommandLineRunner {
 
         vetService.save(vet1);
 
-        Vet vet2 = new Vet();;
+        Vet vet2 = new Vet();
+        ;
         vet2.setFirstName("James");
         vet2.setLastName("Don");
 
