@@ -1,5 +1,14 @@
 C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\Pet.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\map\AbstractMapService.java
 C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\PetType.java
 C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\Person.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\map\OwnerServiceMap.java
 C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\Owner.java
 C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\Vet.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\model\BaseEntity.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\CrudService.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\OwnerService.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\PetService.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\map\VetServiceMap.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\VetService.java
+C:\spring-guru\sfg-pet-clinic-v1\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinicv1\services\map\PetServiceMap.java
