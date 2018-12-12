@@ -11,6 +11,10 @@ public class PetType extends BaseEntity {
     @Column(name = "name")
     private String name;
 
+    public PetType(Long id) {
+        super(id);
+    }
+
     public String getName() {
         return name;
     }

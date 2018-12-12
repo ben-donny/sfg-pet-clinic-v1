@@ -11,6 +11,10 @@ public class Speciality extends BaseEntity{
     @Column(name = "description")
     private String description;
 
+    public Speciality(Long id) {
+        super(id);
+    }
+
     public String getDescription() {
         return description;
     }
