@@ -15,6 +15,10 @@ public class Speciality extends BaseEntity{
         super(id);
     }
 
+    public Speciality() {
+
+    }
+
     public String getDescription() {
         return description;
     }

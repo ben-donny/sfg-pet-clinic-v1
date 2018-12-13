@@ -37,6 +37,10 @@ public class Owner extends Person {
         }
     }
 
+    public Owner() {
+        super();
+    }
+
     public String getAddress() {
         return address;
     }

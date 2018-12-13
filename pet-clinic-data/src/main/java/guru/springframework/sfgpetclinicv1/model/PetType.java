@@ -15,6 +15,10 @@ public class PetType extends BaseEntity {
         super(id);
     }
 
+    public PetType() {
+        super();
+    }
+
     public String getName() {
         return name;
     }

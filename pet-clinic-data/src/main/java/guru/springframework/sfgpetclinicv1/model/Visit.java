@@ -21,6 +21,10 @@ public class Visit extends BaseEntity {
         super(id);
     }
 
+    public Visit() {
+
+    }
+
     public LocalDate getDate() {
         return date;
     }

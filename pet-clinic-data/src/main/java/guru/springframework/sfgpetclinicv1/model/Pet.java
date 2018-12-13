@@ -30,6 +30,10 @@ public class Pet extends BaseEntity {
         super(id);
     }
 
+    public Pet() {
+
+    }
+
     public String getName() {
         return name;
     }

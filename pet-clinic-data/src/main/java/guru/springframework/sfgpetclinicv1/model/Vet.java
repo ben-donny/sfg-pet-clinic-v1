@@ -17,6 +17,10 @@ public class Vet extends Person {
         super(id, firstName, lastName);
     }
 
+    public Vet() {
+
+    }
+
     public Set<Speciality> getSpecialities() {
         return specialities;
     }
