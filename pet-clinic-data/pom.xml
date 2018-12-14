@@ -80,7 +80,7 @@
                     <dependency>
                         <groupId>com.github.jonasrutishauser.org.junit.platform</groupId>
                         <artifactId>junit-platform-surefire-provider</artifactId>
-                        <version>${junit-platform.version}</version>
+                        <version>1.0.0</version>
                     </dependency>
                 </dependencies>
             </plugin>
