@@ -30,7 +30,7 @@ jobs:
         # fallback to using the latest cache if no exact match is found
         - v1-dependencies-
 
-    # skip tests
+    # skip tests - change to jdk 11.00
     - run: mvn install -DskipTests
 
     - run: mvn dependency:go-offline
